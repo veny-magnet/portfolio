@@ -7,6 +7,8 @@ export const AppText={
     hello:'Hello,',
     Iam:'I am ',
     RahulSanap:'Rahul Sanap',
+    About:'About ',
+    Me:'Me',
     aboutMeDescripion:'I am software developer working in IT industry from  last 6 Years as Full stack developer. Expert in UI/UX design, Front-end  and Back-end Development',
     Skills:'Skills & ',
     Experties:'Experties',
